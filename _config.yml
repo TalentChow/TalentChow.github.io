@@ -287,6 +287,12 @@ scholar:
   group_by: year
   group_order: descending
 
+  category_map:
+    article: "Journal Articles"
+    book: "Books"
+    conference: "Conference Papers"
+    proceedings: "Conference Proceedings"
+
 # Display different badges withs stats for your publications
 # Customize badge behavior in _layouts/bib.liquid
 enable_publication_badges:
